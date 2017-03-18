@@ -1,4 +1,4 @@
-# kodilla-10.6
-kodilla task 10.6
-Kanban table (trello) in JavaScript
+# kodilla-11.4
+kodilla task 11.4
+Generator of random jokes on Chuck Norris
 
